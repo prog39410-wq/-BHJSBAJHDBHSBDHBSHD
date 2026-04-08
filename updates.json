@@ -1,0 +1,13 @@
+{
+  "updates": [
+    {
+      "version": "1.2.0",
+      "status": "stable",
+      "title": "Nueva versión",
+      "description": "Descripción del cambio",
+      "date": "2026-04-08",
+      "download_url": "https://...",
+      "changes": ["Fix X", "Mejora Y"]
+    }
+  ]
+}
